@@ -36,6 +36,10 @@ main {
     flex-basis: 40%;
     position: relative;
 }
+.saldacoes{
+    color: #000;
+    margin-left: 14rem;
+}
 
 .robo {
     height: 110%;
